@@ -31,7 +31,7 @@
 ### Contribution
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/bluejay-19/bluejay-19/output/github-snake-dark.svg)
 
 </div>
 
