@@ -47,25 +47,14 @@ a CS student exploring the vast, never-ending, and always-evolving world of tech
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+---
+
+### 📊 github activity
 
 ---
 
-### 📊 github stats
+### 📊 github activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/0-profile-details.svg" alt="Profile details"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/1-repos-per-language.svg" alt="Repos per language" width="48%"/>
-  <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/2-most-commit-language.svg" alt="Most commit language" width="48%"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/3-stats.svg" alt="Stats" width="48%"/>
-  <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/4-productive-time.svg" alt="Productive time" width="48%"/>
-</p>
-
----
-
-### 🐍 contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/output/github-snake-dark.svg" alt="contribution snake"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bluejay-19&theme=merko&hide_border=true" alt="contribution graph"/>
 </p>
