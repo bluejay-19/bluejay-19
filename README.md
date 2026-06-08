@@ -53,9 +53,13 @@ a CS student exploring the vast, never-ending, and always-evolving world of tech
 ### 📊 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bluejay-19&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/0-profile-details.svg" alt="Profile details"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bluejay-19&theme=merko&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/1-repos-per-language.svg" alt="Repos per language" width="48%"/>
+  <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/2-most-commit-language.svg" alt="Most commit language" width="48%"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/bluejay-19/bluejak-19/main/profile-summary-card-output/merko/3-stats.svg" alt="Stats" width="48%"/>
+  <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/4-productive-time.svg" alt="Productive time" width="48%"/>
 </p>
 
 ---
