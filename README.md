@@ -49,12 +49,3 @@ a CS student exploring the vast, never-ending, and always-evolving world of tech
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ---
 
-### 📊 github activity
-
----
-
-### 📊 github activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bluejay-19&theme=merko&hide_border=true" alt="contribution graph"/>
-</p>
