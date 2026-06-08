@@ -58,7 +58,7 @@ a CS student exploring the vast, never-ending, and always-evolving world of tech
   <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/1-repos-per-language.svg" alt="Repos per language" width="48%"/>
   <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/2-most-commit-language.svg" alt="Most commit language" width="48%"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/bluejay-19/bluejak-19/main/profile-summary-card-output/merko/3-stats.svg" alt="Stats" width="48%"/>
+  <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/3-stats.svg" alt="Stats" width="48%"/>
   <img src="https://raw.githubusercontent.com/bluejay-19/bluejay-19/main/profile-summary-card-output/merko/4-productive-time.svg" alt="Productive time" width="48%"/>
 </p>
 
