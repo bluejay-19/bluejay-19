@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm bluejay 👋</h1>
+<h1 align="center">hey, i'm another human who codes 👋</h1>
 <h3 align="center">developer-in-training &nbsp;·&nbsp; data enthusiast &nbsp;·&nbsp; professional bug introducer</h3>
 
 <p align="center">
